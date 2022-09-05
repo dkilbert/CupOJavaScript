@@ -178,4 +178,4 @@ This should launch Expo in your browser where you can then run it as a web appli
  This software is protected under GNU (General Public License).You may use it, provided that any modifications you make to it are available for others to use and modify in a       similar manner.
  https://www.gnu.org/licenses/gpl-3.0.html
   </details>
-1
+
